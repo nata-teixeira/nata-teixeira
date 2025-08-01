@@ -12,8 +12,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=500&lines=🔥+Building+inspiring+systems...;🚀+Leading+purpose-driven+projects;🔐+Intern+at+Federal+Police+of+Brazil;💡+Co-founder+of+a+tech+startup!" alt="Typing SVG" />
 </p>
 
-<h1 align="center">⚙️ Hi! I'm Nicollas Freitas</h1>
-<h2 align="center">❇️ Full Stack Developer in training | Creative dev with purpose</h2>
+<h1 align="center">⚙️ Hi! I'm Natanael Teixeira</h1>
+<h2 align="center">❇️ Software Developer | Creative dev with purpose</h2>
 
 <p align="center">
 💻 Computer Science student at Unisinos and Economist from Federal University of Rio Grande do Sul<br>
