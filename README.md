@@ -16,7 +16,7 @@
 <h2 align="center">❇️ Software Developer | Creative dev with purpose</h2>
 
 <p align="center">
-💻 Computer Science student at Unisinos and Economist from Federal University of Rio Grande do Sul<br>
+💻 Computer Science student at Unisinos and Economist from Federal University of Rio Grande do Sul (UFRGS)<br>
 </p>
 
 ---
@@ -41,7 +41,7 @@
 
 <div> 
   <a href="https://instagram.com/natateixeira_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://discord.gg/yWnbtyBVch" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a> 
+  <a href="https://discord.gg/natateixeira" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a> 
   <a href="https://www.linkedin.com/in/natanael-teixeira-972b641a4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div>
 
