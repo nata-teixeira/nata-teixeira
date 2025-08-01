@@ -8,6 +8,10 @@
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300" alt="epic-dev-fire" />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=500&lines=🔥+Building+inspiring+systems...;🚀+Leading+purpose-driven+projects;🔐+Intern+at+Federal+Police+of+Brazil;💡+Co-founder+of+a+tech+startup!" alt="Typing SVG" />
+</p>
+
 <h1 align="center">⚙️ Hi! I'm Natanael Teixeira</h1>
 <h2 align="center">❇️ Software Developer | Creative dev with purpose</h2>
 
@@ -36,9 +40,8 @@
 ### 📫 Let’s Connect
 
 <div> 
-  <a href="https://instagram.com/nicollasde" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://instagram.com/natateixeira_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://discord.gg/yWnbtyBVch" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a> 
-  <a href="mailto:nideoliveirafreitas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/natanael-teixeira-972b641a4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div>
 
