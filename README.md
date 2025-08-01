@@ -8,9 +8,7 @@
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300" alt="epic-dev-fire" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=500&lines=🔥+Building+inspiring+systems...;🚀+Leading+purpose-driven+projects;🔐+Intern+at+Federal+Police+of+Brazil;💡+Co-founder+of+a+tech+startup!" alt="Typing SVG" />
-</p>
+
 
 <h1 align="center">⚙️ Hi! I'm Natanael Teixeira</h1>
 <h2 align="center">❇️ Software Developer | Creative dev with purpose</h2>
