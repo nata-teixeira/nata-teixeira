@@ -39,12 +39,7 @@
   <a href="https://instagram.com/nicollasde" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://discord.gg/yWnbtyBVch" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a> 
   <a href="mailto:nideoliveirafreitas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/nicollasde" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+  <a href="https://www.linkedin.com/in/natanael-teixeira-972b641a4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div>
 
----
-<div align="left">
-  <a href="https://www.credly.com/badges/ce93320e-12ef-49f1-81b8-d3612860fb4e/public_url" target="_blank">
-    <img src="https://github.com/Mit0lenda/Mit0lenda/assets/113867356/bfd21a80-fa54-4059-87ac-475dfeba0d03" width="150px" alt="iTwin Platform Badge">
-  </a>
-</div>
+
